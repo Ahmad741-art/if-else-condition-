@@ -1,1 +1,1 @@
-# if-else-condition-php
+# simple-if-else-condition-php
